@@ -27,6 +27,7 @@ namespace PryGasparVerduEpr1
         private void btnMostrar_Click(object sender, EventArgs e)
         {
             char separador = Convert.ToChar(",");
+
             int F = 0;
 
             StreamReader srCventas = new StreamReader("./Ventas.txt");
