@@ -14,7 +14,7 @@ namespace PryGasparVerduEpr1
     public partial class FrmConsultaVentas : Form
     {
         string[,] matConsultaVentas = new string[1000, 6];
-        public FrmConsultaVentas()
+        public FrmConsultaVentas() 
         {
             InitializeComponent();
         }

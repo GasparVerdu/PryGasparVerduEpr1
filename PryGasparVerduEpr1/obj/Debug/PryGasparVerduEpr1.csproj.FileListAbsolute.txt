@@ -1,0 +1,17 @@
+C:\Users\gaspa\OneDrive\Escritorio\pryGasparVerduEPR1\PryGasparVerduEpr1\PryGasparVerduEpr1\bin\Debug\PryGasparVerduEpr1.exe.config
+C:\Users\gaspa\OneDrive\Escritorio\pryGasparVerduEPR1\PryGasparVerduEpr1\PryGasparVerduEpr1\bin\Debug\PryGasparVerduEpr1.exe
+C:\Users\gaspa\OneDrive\Escritorio\pryGasparVerduEPR1\PryGasparVerduEpr1\PryGasparVerduEpr1\bin\Debug\PryGasparVerduEpr1.pdb
+C:\Users\gaspa\OneDrive\Escritorio\pryGasparVerduEPR1\PryGasparVerduEpr1\PryGasparVerduEpr1\obj\Debug\PryGasparVerduEpr1.csproj.AssemblyReference.cache
+C:\Users\gaspa\OneDrive\Escritorio\pryGasparVerduEPR1\PryGasparVerduEpr1\PryGasparVerduEpr1\obj\Debug\PryGasparVerduEpr1.csproj.SuggestedBindingRedirects.cache
+C:\Users\gaspa\OneDrive\Escritorio\pryGasparVerduEPR1\PryGasparVerduEpr1\PryGasparVerduEpr1\obj\Debug\PryGasparVerduEpr1.FrmClientes.resources
+C:\Users\gaspa\OneDrive\Escritorio\pryGasparVerduEPR1\PryGasparVerduEpr1\PryGasparVerduEpr1\obj\Debug\PryGasparVerduEpr1.FrmConsultaClientes.resources
+C:\Users\gaspa\OneDrive\Escritorio\pryGasparVerduEPR1\PryGasparVerduEpr1\PryGasparVerduEpr1\obj\Debug\PryGasparVerduEpr1.FrmConsultaVendedores.resources
+C:\Users\gaspa\OneDrive\Escritorio\pryGasparVerduEPR1\PryGasparVerduEpr1\PryGasparVerduEpr1\obj\Debug\PryGasparVerduEpr1.FrmConsultaVentas.resources
+C:\Users\gaspa\OneDrive\Escritorio\pryGasparVerduEPR1\PryGasparVerduEpr1\PryGasparVerduEpr1\obj\Debug\PryGasparVerduEpr1.frmInicio.resources
+C:\Users\gaspa\OneDrive\Escritorio\pryGasparVerduEPR1\PryGasparVerduEpr1\PryGasparVerduEpr1\obj\Debug\PryGasparVerduEpr1.FrmVendedores.resources
+C:\Users\gaspa\OneDrive\Escritorio\pryGasparVerduEPR1\PryGasparVerduEpr1\PryGasparVerduEpr1\obj\Debug\PryGasparVerduEpr1.FrmVenta.resources
+C:\Users\gaspa\OneDrive\Escritorio\pryGasparVerduEPR1\PryGasparVerduEpr1\PryGasparVerduEpr1\obj\Debug\PryGasparVerduEpr1.Properties.Resources.resources
+C:\Users\gaspa\OneDrive\Escritorio\pryGasparVerduEPR1\PryGasparVerduEpr1\PryGasparVerduEpr1\obj\Debug\PryGasparVerduEpr1.csproj.GenerateResource.cache
+C:\Users\gaspa\OneDrive\Escritorio\pryGasparVerduEPR1\PryGasparVerduEpr1\PryGasparVerduEpr1\obj\Debug\PryGasparVerduEpr1.csproj.CoreCompileInputs.cache
+C:\Users\gaspa\OneDrive\Escritorio\pryGasparVerduEPR1\PryGasparVerduEpr1\PryGasparVerduEpr1\obj\Debug\PryGasparVerduEpr1.exe
+C:\Users\gaspa\OneDrive\Escritorio\pryGasparVerduEPR1\PryGasparVerduEpr1\PryGasparVerduEpr1\obj\Debug\PryGasparVerduEpr1.pdb
